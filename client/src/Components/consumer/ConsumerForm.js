@@ -70,9 +70,6 @@ function ConsumerForm() {
                     <Button className='button' variant="primary" type="submit">
                         Submit Details
                     </Button>
-                    <Button className='button2' >
-                        Submit Details
-                    </Button>
                     <br/><br/>
                 </Form>
             </div>
